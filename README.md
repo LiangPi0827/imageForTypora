@@ -1,0 +1,2 @@
+# imageForTypora
+typora+picgo+github
